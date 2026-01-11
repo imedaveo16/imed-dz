@@ -1,0 +1,21 @@
+{
+  "name": "Najda DZ",
+  "short_name": "Najda DZ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_Protection_civile_alg%C3%A9rienne.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_Protection_civile_alg%C3%A9rienne.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

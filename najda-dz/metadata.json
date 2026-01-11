@@ -1,0 +1,9 @@
+{
+  "name": "Najda DZ",
+  "description": "Algerian emergency reporting app allowing citizens to report fires, accidents, and medical emergencies with geolocation and media evidence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
